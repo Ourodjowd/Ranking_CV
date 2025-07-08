@@ -1,0 +1,7 @@
+langchain-openai
+python-dotenv
+pandas
+PyPDF2
+numpy
+scikit-learn
+langchain-community
